@@ -1,2 +1,2 @@
 # DoubanTop250--python-crawler
-My first time to tryO(∩_∩)O
+This is a project to crawl Douban movie website. 
